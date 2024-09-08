@@ -7,9 +7,8 @@ With inbuilt themes, you can customize the look of the card without doing any ma
 Use `?theme=THEME_NAME` parameter like so:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
 ```
-
 ## Stats
 
 > These themes works with all five our cards: Stats Card, Repo Card, Gist Card, Top languages Card and WakaTime Card.
